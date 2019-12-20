@@ -1,4 +1,4 @@
-# Participatory Planning
+# Construction Planning by Chris
 
 An interactive 3D web application enabling citizens to engage in urban planning, using the [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/). This is a non-commercial demo application made by the Esri R&D Center Zurich. It is intended for presentations or as a starting point for new projects.
 
